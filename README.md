@@ -17,7 +17,7 @@ Higher or Lower is a simple arcade-style game where the player controls a circle
 
 # Installation
 
-* 'git clone https://github.com/KillerMrSingh/HIgher-or-Lower.git'
+* 'git clone https://github.com/KillerMrSingh/HOL.git/HOL2.py'
 * pip install pygame
 
 ## Documentation
